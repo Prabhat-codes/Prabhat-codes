@@ -38,5 +38,5 @@ This is Prabhat Namdharani. I am currently pursuing my Undergraduate degree in C
 
 Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-swagatajana-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prabhat-namdharani/)](https://www.linkedin.com/in/prabhat-namdharani/)
-[![Gmail Badge](https://img.shields.io/badge/-swagatajana2014.sj@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:prabhat.namdharani@gmail.com)](mailto:prabhat.namdharani@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Prabhat Namdharani-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prabhat-namdharani/)](https://www.linkedin.com/in/prabhat-namdharani/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:prabhat.namdharani@gmail.com)](mailto:prabhat.namdharani@gmail.com)
