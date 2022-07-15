@@ -12,8 +12,8 @@ This is Prabhat Namdharani. I am currently pursuing my Undergraduate degree in C
 ## 🏗️ Frameworks
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Django](https://img.shields.io/pypi/djversions/djangorestframework)
-
+![React](https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=white)
+![Django](https://img.shields.io/badge/Django-563D7C?style=for-the-badge&logo=django&logoColor=white)
 ## 💾 Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -22,9 +22,9 @@ This is Prabhat Namdharani. I am currently pursuing my Undergraduate degree in C
 
 ## 🏭 Infrastructures
 
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<!-- ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) -->
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 
