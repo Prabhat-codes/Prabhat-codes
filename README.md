@@ -2,7 +2,7 @@
 
 ## Hey There! <img src ="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="75">
 
-This is Prabhat Namdharani. I am currently pursuing my Undergraduate degree in Computer Science from [Manipal Institute Of Technology](https://manipal.edu/mit.html). I love technology and all the super cool innovations that cna be made from it.
+This is Prabhat Namdharani. I am currently pursuing my Undergraduate degree in Computer Science from [Manipal Institute Of Technology](https://manipal.edu/mit.html). I love technology and all the super cool innovations that can be made from it.
 
 ## 🗣️ Languages
 
